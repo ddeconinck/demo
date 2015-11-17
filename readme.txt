@@ -8,3 +8,4 @@ More text added in master
 Text added in NewFeature branch
 More text added in NewFeature branch
 
+Update to 1.1
