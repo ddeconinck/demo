@@ -10,3 +10,5 @@ More text added in NewFeature branch
 
 Update to 1.1
 Update to 1.2
+
+Kleine aanpassing
